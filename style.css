@@ -1,0 +1,107 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+}
+.eat{
+    width:50%;
+    font-size: 30px;
+    margin-left: 40px;
+}
+ span{
+    color:orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(skyblue,rgb(226, 203, 199));
+    padding:10px 20px;
+    border-radius: 20px;
+    color:rgb(250, 243, 243);
+}
+.flexible{
+    display:flex;
+    padding-left:15px;
+    margin-bottom: 100px;
+}
+.eat img{
+    width:80%;
+}
+
+.diet{
+    padding-top: 30px;
+}
+.about{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    margin:10px;
+}
+.photo{
+    height:500px;
+    padding-top:30px;
+}
+.hey p{
+   font-size: small;
+    padding-right: 20px;
+    margin-bottom: 30px;
+}
+.hey h1{
+    color:rgb(61, 28, 28);
+}
+.block{
+    display:flex;
+    width:50%;
+    margin-left: 50px;
+ }
+ .nishan img{
+   width:250px;
+   height:200px;
+
+ }
+ .nishan{
+   margin:50px;
+   margin-left:60px;
+   box-shadow: 5px 5px 15px black;
+   padding:20px;
+   border-radius: 10px;
+   font-size: 10px;
+   font-weight: 100;
+   color: black;
+ }
+ .nishan h2{
+     color:black;
+     font-size: 30px;
+
+ }
+ .recipes{
+     text-align: center;
+     margin-left: 400px;
+     margin-right: 400px;
+ }
+ .youtube{
+     margin-left:150px;
+ }
+ .insta{
+     margin-left: 150px;
+ }
+ .dribble{
+     margin-left: 150px;
+ }
+ .last{
+     width:80%;
+     margin:auto;
+     box-shadow:  2px 2px  5px rgb(31, 22, 22);
+     border-radius: 3px;
+     margin-bottom: 30px;
+ }
+ footer{
+     text-align: center;
+     background-color: rgb(66, 49, 49);
+     margin-top:0;
+     padding:10px;
+    }
+    footer h1{
+        font-size: 20px;
+    }
+ 
+ footer p{
+     color:white;
+ }
